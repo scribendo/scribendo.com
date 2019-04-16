@@ -1,2 +1,2 @@
 # scribendo.com
-https://scribendo.com website source
+Source of https://scribendo.com
